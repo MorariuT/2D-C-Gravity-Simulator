@@ -18,7 +18,7 @@ And to run it:
 ```
 
 ## Examples
-
-
-
 Video: [here](https://drive.google.com/file/d/1_3B-0ie6yfKpyjCwtkIpm-Xnu2vEgkua/view?usp=drive_link)
+
+![Image](./ss.png)
+
